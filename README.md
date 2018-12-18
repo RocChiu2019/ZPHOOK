@@ -1,0 +1,2 @@
+# ZPHOOK
+本Demo主要介绍了HOOK的概念以及HOOK实现的三种方式。之前撰写的ZPMethodSwizzle（方法欺骗）Demo是本Demo所叙述的HOOK实现的方式之一，为了全面地介绍，在本Demo中也对Method Swizzle方式做了重复的介绍。
